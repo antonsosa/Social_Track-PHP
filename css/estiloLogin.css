@@ -1,0 +1,28 @@
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+.h-custom {
+height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+}
+}
+
+.btn-custom {     
+    background-color: #8b1038;     
+    color: white;     
+    border: none; 
+    font-size: 20px; /* Ajusta el tamaño del texto según el tamaño deseado */   
+    font-weight: bold; 
+    padding: 0.5rem 3rem; /* Ajusta el padding según el tamaño deseado */
+    border-radius: 10px; /* Ajusta el valor según el grado de redondez deseado */
+}   
+.btn-custom:active {     
+    background-color: #6d0723; /* Color alternativo al hacer clic */ 
+}
