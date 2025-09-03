@@ -22,7 +22,7 @@
           <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
             <form action="autenticacion.php" method="post">
               <div class="divider d-flex align-items-center my-4">
-                <p class="text-center fw-bold mx-3 mb-0" style="margin-top: -10px;";><font size="8">Registro y control <br> Academico<br> de horas sociales!</font></p>
+                <p class="text-center fw-bold mx-3 mb-0" style="margin-top: -10px;";><font size="8">Registro y Control <br> Academico<br> de Horas Sociales!</font></p>
               </div><br><br>
               
               <!-- Input para ingresar email -->
