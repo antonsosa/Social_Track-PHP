@@ -12,7 +12,7 @@
                             <div class="container carousel-content">  
                                 <h4 class="text-white mb-4 animated slideInDown">                                   
                                 <p>Bienvenido/a, <?= $_SESSION['rol'] ?> <?= $_SESSION['apellido'] ?></p></h4>      
-                                <h1 class="text-white display-1 mb-4 animated slideInDown ">Decidete, Formate y Lidera</h1>                                                         
+                                <h1 class="text-white display-4 mb-4 animated slideInDown ">Registro y control de horas sociales!</h1>                                                         
                             </div>
                         </div>
                     </div>
@@ -23,16 +23,16 @@
                             <h4 class="text-white mb-4 animated slideInDown">   
                                 <p>Bienvenido/a, <?= $_SESSION['rol'] ?> <?= $_SESSION['apellido'] ?></p>
                             </h4>                             
-                                <h1 class="text-white display-1 mb-4 animated slideInDown ">Decidete, Formate y Lidera</h1>                                  
+                            <h1 class="text-white display-4 mb-4 animated slideInDown ">Registro y control de horas sociales!</h1>                                      
                             </div>
                         </div>
                     </div>
                 </div>
-                <button style="background-color: #5a1533;" class="carousel-control-prev btn btn-primary border border-2 border-start-0 border-primary" type="button" data-bs-target="#carouselId" data-bs-slide="prev">
+                <button style="background-color: #1E3A8A;" class="carousel-control-prev btn btn-primary border border-2 border-start-0 border-primary" type="button" data-bs-target="#carouselId" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button style="background-color: #5a1533;" class="carousel-control-next btn btn-primary border border-2 border-end-0 border-primary" type="button" data-bs-target="#carouselId" data-bs-slide="next">
+                <button style="background-color: #1E3A8A;" class="carousel-control-next btn btn-primary border border-2 border-end-0 border-primary" type="button" data-bs-target="#carouselId" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
