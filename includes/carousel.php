@@ -7,7 +7,7 @@
                 </ol>
                 <div class="carousel-inner" role="listbox">
                     <div class="carousel-item active">
-                        <img src="img/utec5.jpg" class="img-fluid w-100" alt="First slide" >
+                        <img src="./img/CentroSS.jpg" class="img-fluid w-100" alt="First slide" >
                         <div class="carousel-caption">
                             <div class="container carousel-content">  
                                 <h4 class="text-white mb-4 animated slideInDown">                                   
@@ -17,13 +17,13 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="img/utec2.jpg" class="img-fluid w-100" alt="Second slide">
+                        <img src="./img/CentroSS2.jpg" class="img-fluid w-100" alt="Second slide">
                         <div class="carousel-caption">
                             <div class="container carousel-content">
                             <h4 class="text-white mb-4 animated slideInDown">   
                                 <p>Bienvenido/a, <?= $_SESSION['rol'] ?> <?= $_SESSION['apellido'] ?></p>
                             </h4>                             
-                            <h1 class="text-white display-4 mb-4 animated slideInDown ">Registro y control de horas sociales!</h1>                                      
+                            <h1 class="text-white display-4 mb-4 animated slideInDown ">Que tengas un excelente día!</h1>                                      
                             </div>
                         </div>
                     </div>

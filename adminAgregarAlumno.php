@@ -154,6 +154,7 @@
                          <!-- Botón "Cancelar" -->
                         <div class="col-md-5 mx-auto">
                             <button type="button" class="btn btn-secondary" style="width: 200px;" onclick="limpiarFormulario()">Cancelar</button><br>
+                        
                         </div>
                         <!-- Botón "Agregar" -->
                         <div class="col-md-3 mx-auto">

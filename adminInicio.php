@@ -40,7 +40,7 @@
                             <h1 class="display-5 mb-2 text-center">Misión</h1>
                             <div>
                                 <p class="fs-5" style="text-align: justify;">
-                                    La Universidad Tecnológica de El Salvador existe para brindar a amplios sectores poblacionales, 
+                                    La Universidad ... de El Salvador existe para brindar a amplios sectores poblacionales, 
                                     innovadores servicios educativos, promoviendo su capacidad crítica y su responsabilidad social; utilizando metodologías y recursos académicos 
                                     apropiados, desarrollando institucionalmente: investigación pertinente y proyección social, todo consecuente con su 
                                     filosofía y su legado cultural. 

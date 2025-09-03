@@ -22,7 +22,38 @@
     color: var(--bs-dark) !important;
 }
 
+.btn-secondary {
+    background-color: #1E3A8A !important;
+    border-color: #1E3A8A !important;
+    color: #fff !important;
+    box-shadow: 5px 5px 10px 0 #1e3b8a86; /* Sombra sutil en azul */
+}
+.btn-secondary:hover {
+    background-color: #0748fc !important; 
+}
 
+/*agregar sombra a class="btn btn-success"    */
+.btn-success {
+    background-color: #198754 !important;
+    border-color: #198754 !important;
+    color: #fff !important;
+    box-shadow: 5px 5px 10px 0 #19875486; /* Sombra sutil en verde */
+}
+.btn-success:hover {
+    background-color: #24be77 !important; 
+}
+
+
+/*agregar sombra y hover a class="btn btn-warning" */
+.btn-warning {
+    background-color: #ffc107 !important;
+    border-color: #ffc107 !important;
+    color: #212529 !important;
+    box-shadow: 5px 5px 10px 0 #ffc10786; /* Sombra sutil en amarillo */
+}
+.btn-warning:hover {
+    background-color: #fdd55b !important; 
+}
 
 /*** Topbar Start ***/
 
@@ -223,7 +254,7 @@
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/utec1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/ColegioRandom.jpg) center center no-repeat;
     background-size: cover;
     margin-bottom: 3rem;
 }
