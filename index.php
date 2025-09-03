@@ -16,13 +16,13 @@
       <div class="container-fluid h-custom">
         <div class="row d-flex justify-content-center align-items-center h-100">
           <div class="col-md-9 col-lg-6 col-xl-4">
-            <img src="./img/logoUtec.jpg"
+            <img src="./img/SocialTrackLogo.png"
               class="img-fluid" alt="logoUtec" >
           </div>
           <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
             <form action="autenticacion.php" method="post">
               <div class="divider d-flex align-items-center my-4">
-                <p class="text-center fw-bold mx-3 mb-0" style="margin-top: -10px;";><font size="8">Sistema de Control <br>de Servicio Social</font></p>
+                <p class="text-center fw-bold mx-3 mb-0" style="margin-top: -10px;";><font size="8">Registro y control <br> Academico<br> de horas sociales!</font></p>
               </div><br><br>
               
               <!-- Input para ingresar email -->
@@ -47,15 +47,15 @@
               </script>
 
               <div class="text-center text-lg-start mt-4 pt-2">
-                <button type="submit" data-mdb-button-init data-mdb-ripple-init class="btn-custom" style="background-color: #5a1533;">Login</button>
+                <button type="submit" data-mdb-button-init data-mdb-ripple-init class="btn-custom">Login</button>
               </div>                        
             </form>
           </div>
         </div>
       </div>
       <div class="d-flex flex-column flex-md-row text-center text-md-start justify-content-between py-4 px-4 px-xl-5" 
-        style="background-color: #5a1533;">
-        <div class="text-white mb-3 mb-md-0">    Copyright © 2024. All rights reserved.   </div>
+        style="background-color: #1E3A8A;">
+        <div class="text-white mb-3 mb-md-0">    Copyright © 2025. All rights reserved.   </div>
       </div> 
     </section>
   </body>

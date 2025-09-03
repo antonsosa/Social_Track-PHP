@@ -15,14 +15,15 @@ height: 100%;
 }
 
 .btn-custom {     
-    background-color: #8b1038;     
-    color: white;     
+    background-color: #FEEA00;     
+    color: #1E3A8A;     
     border: none; 
     font-size: 20px; /* Ajusta el tamaño del texto según el tamaño deseado */   
     font-weight: bold; 
     padding: 0.5rem 3rem; /* Ajusta el padding según el tamaño deseado */
     border-radius: 10px; /* Ajusta el valor según el grado de redondez deseado */
 }   
-.btn-custom:active {     
-    background-color: #6d0723; /* Color alternativo al hacer clic */ 
+
+.btn-custom:hover {
+    background-color: #e2d21b;
 }
