@@ -40,10 +40,11 @@
                             <h1 class="display-5 mb-2 text-center">Misión</h1>
                             <div>
                                 <p class="fs-5" style="text-align: justify;">
-                                    La Universidad ... de El Salvador existe para brindar a amplios sectores poblacionales, 
-                                    innovadores servicios educativos, promoviendo su capacidad crítica y su responsabilidad social; utilizando metodologías y recursos académicos 
-                                    apropiados, desarrollando institucionalmente: investigación pertinente y proyección social, todo consecuente con su 
-                                    filosofía y su legado cultural. 
+                                    La Universidad ... de El Salvador Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                                    Aliquam id leo ullamcorper orci feugiat convallis. Aenean sit amet ipsum nisi. 
+                                    Nam dapibus, nibh ut volutpat euismod, nunc dui porta justo, sit amet gravida erat urna quis enim. 
+                                    Integer euismod mi a suscipit sodales. Sed congue diam lacus, at tempus mi maximus porttitor. 
+                                    Integer consectetur velit maximus est ultrices eleifend. Quisque sit amet dui ut libero varius eleifend. 
                                 </p>
                             </div>
                         </div>
@@ -56,8 +57,10 @@
                             <div>
                                 <p class="fs-5" style="text-align: justify;">
                                     Ser reconocida como una de las mejores universidades privadas de la región, 
-                                    a través de sus egresados y de sus esmerados procesos institucionales de construcción y aplicación del conocimiento, 
-                                    proponiendo soluciones pertinentes a las necesidades de amplios sectores de la sociedad.
+                                    Ut facilisis, est id rhoncus lacinia, felis quam consequat orci, vel tristique justo sem eu est. 
+                                    Nunc sit amet dui lobortis, auctor erat nec, tristique turpis. 
+                                    Fusce finibus leo sed turpis suscipit fringilla. 
+                                    Curabitur in metus accumsan, tempor urna nec, suscipit neque. 
                                 </p>
                             </div>
                         </div>

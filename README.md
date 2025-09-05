@@ -44,4 +44,9 @@ Este proyecto utiliza **Stored Procedures (SP) y Triggers** en MySQL para mayor 
    ```bash
    git clone https://github.com/tuusuario/socialtrack.git
 3. En directorio **SQL** encontrarás la version demo de la base de datos ya con información para realizar pruebas.
-4. Abrir phpMyAdmin > crear la base de datos bajo el nombre db_sistema_horas > Importar base de datos.
+4. Abrir phpMyAdmin →   crear la base de datos bajo el nombre db_sistema_horas → Importar base de datos.
+5. Usa las siguientes credenciales demo para acceder:
+| Rol           | Usuario       | Email                   | Contraseña    |
+| ------------- | ------------- | ----------------------- | ------------- |
+| Administrador | Juan Perez    | [j.perez@demo.com]      | admin123!     |
+| Encargado     | Pedro Sanchez | [p.sanchez@demo.com]    | encargado123! |
